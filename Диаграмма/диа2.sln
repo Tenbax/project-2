@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "диа2", "диа2\диа2.vcxproj", "{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1741D7FE-028A-47DF-B40A-DBD635FE81B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Debug|x64.ActiveCfg = Debug|x64
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Debug|x64.Build.0 = Debug|x64
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Debug|x86.Build.0 = Debug|Win32
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Release|x64.ActiveCfg = Debug|x64
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Release|x64.Build.0 = Debug|x64
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Release|x86.ActiveCfg = Release|Win32
+		{E90A1A4E-54BC-41CF-A08C-5B00FC03147B}.Release|x86.Build.0 = Release|Win32
+		{1741D7FE-028A-47DF-B40A-DBD635FE81B4}.Debug|x64.ActiveCfg = Debug
+		{1741D7FE-028A-47DF-B40A-DBD635FE81B4}.Debug|x64.Build.0 = Debug
+		{1741D7FE-028A-47DF-B40A-DBD635FE81B4}.Debug|x86.ActiveCfg = Debug
+		{1741D7FE-028A-47DF-B40A-DBD635FE81B4}.Release|x64.ActiveCfg = Release
+		{1741D7FE-028A-47DF-B40A-DBD635FE81B4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4DA0A2-A978-4463-81EB-6C6DACD05D8E}
+	EndGlobalSection
+EndGlobal

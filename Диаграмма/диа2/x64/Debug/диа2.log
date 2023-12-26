@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.h(407,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.cpp(21,31): error C2084: функция "void диа2::MyForm::button2_Click(System::Object ^,System::EventArgs ^)" уже имеет текст реализации
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.h(418,23): message : см. предыдущее определение "button2_Click"

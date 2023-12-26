@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.h(405,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\berez\source\repos\Диагромма\диа2\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  диа2.vcxproj -> C:\Users\berez\source\repos\Диагромма\Release\диа2.exe
